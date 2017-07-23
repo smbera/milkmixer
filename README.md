@@ -1,4 +1,4 @@
-# milkmixer应用
+# milkmixer(嘉憬调奶器项目应用)
 
 ## 启动
 
